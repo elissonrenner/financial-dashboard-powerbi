@@ -36,7 +36,7 @@ Os dados utilizados neste projeto são **fictícios**, criados exclusivamente pa
 
 ## 📸 Visualização do Dashboard
 
-![Dashboard Financeiro](dashboard_c.png)
+![Dashboard Financeiro](images/dashboard_c.png)
 
 ## 📁 Estrutura do Projeto
 
